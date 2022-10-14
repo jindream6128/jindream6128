@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jindream6128" alt="jindream6128" /></a> </p>
 
-- 👨‍💻 My Portfolio [notion.s](notion.s)
+- 👨‍💻 My Portfolio [https://aware-aura-a30.notion.site/8f8eb9f96f4a48cdbf7f8c2bb1b1b75c](https://aware-aura-a30.notion.site/8f8eb9f96f4a48cdbf7f8c2bb1b1b75c)
 
 - 📝 My Tistory blog [https://jindream6128.tistory.com/](https://jindream6128.tistory.com/)
 
